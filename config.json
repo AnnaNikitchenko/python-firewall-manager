@@ -1,0 +1,7 @@
+{
+  "admin": { "host": "127.0.0.1", "port": 8081 },
+  "default_action": "deny",
+  "rules_file": "rules.json",
+  "logging": { "path": "logs/events.jsonl" },
+  "services": []
+}
